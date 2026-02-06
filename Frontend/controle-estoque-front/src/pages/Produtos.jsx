@@ -1,0 +1,70 @@
+import { useEffect, useState } from "react";
+
+export default function Produtos() {
+  const [produtos, setProdutos] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    fetch("https://localhost:7216/scalar/v1")
+      .then(res => res.json())
+      .then(data => {
+        setProdutos(data);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error(err);
+        setLoading(false);
+      });
+  }, []);
+
+  if (loading) return <p>Carregando produtos...</p>;
+
+  return (
+    <main style={styles.main}>
+      <div style={styles.container}>
+        <h2>📦 Produtos</h2>
+
+        <table style={styles.table}>
+          <thead>
+            <tr>
+              <th>Nome</th>
+              <th>Quantidade</th>
+              <th>Preço</th>
+              <th>Código de Barras</th>
+              <th>Marca</th>
+            </tr>
+          </thead>
+          <tbody>
+            {produtos.map(p => (
+              <tr key={p.id}>
+                <td>{p.nome}</td>
+                <td>{p.marca}</td>
+                <td>{p.codigoBarras}</td>
+                <td>R$ {p.preco.toFixed(2)}</td>
+                <td>{p.quantidade}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </main>
+  );
+}
+
+const styles = {
+  main: {
+    width: "100%",
+    minHeight: "calc(100vh - 80px)",
+    paddingTop: "40px"
+  },
+  container: {
+    maxWidth: "1200px",
+    margin: "0 auto",
+    padding: "0 20px"
+  },
+  table: {
+    width: "100%",
+    borderCollapse: "collapse",
+    marginTop: "20px"
+  }
+};

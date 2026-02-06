@@ -1,0 +1,6 @@
+@EstoqueProdutos_HostAddress = https://localhost:7216
+
+GET {{EstoqueProdutos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
