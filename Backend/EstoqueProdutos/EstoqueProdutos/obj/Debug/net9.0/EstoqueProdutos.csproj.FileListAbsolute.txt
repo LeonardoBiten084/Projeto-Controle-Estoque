@@ -328,3 +328,4 @@ C:\Backup\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9
 C:\Backup\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\EstoqueProdutos.pdb
 C:\Backup\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\EstoqueProdutos.genruntimeconfig.cache
 C:\Backup\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\ref\EstoqueProdutos.dll
+C:\Backup\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\EstoqueProdutos.sourcelink.json

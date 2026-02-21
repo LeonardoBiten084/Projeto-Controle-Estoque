@@ -5,7 +5,7 @@ export default function Produtos() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("https://localhost:7216/scalar/v1")
+    fetch("https://localhost:7216/api/produto")
       .then(res => res.json())
       .then(data => {
         setProdutos(data);
@@ -29,8 +29,10 @@ export default function Produtos() {
             <tr>
               <th>Nome</th>
               <th>Quantidade</th>
-              <th>Preço</th>
+              <th>Preço de Compra</th>
+              <th>Preço de Venda</th>
               <th>Código de Barras</th>
+              <th>Validade</th>
               <th>Marca</th>
             </tr>
           </thead>
@@ -38,10 +40,12 @@ export default function Produtos() {
             {produtos.map(p => (
               <tr key={p.id}>
                 <td>{p.nome}</td>
-                <td>{p.marca}</td>
-                <td>{p.codigoBarras}</td>
-                <td>R$ {p.preco.toFixed(2)}</td>
                 <td>{p.quantidade}</td>
+                <td>R$ {p.precoCompra.toFixed(2)}</td>
+                <td>R$ {p.precoVenda.toFixed(2)}</td>
+                <td>{p.codigoBarras}</td>
+                <td>{p.validade}</td>
+                <td>{p.marca}</td>
               </tr>
             ))}
           </tbody>

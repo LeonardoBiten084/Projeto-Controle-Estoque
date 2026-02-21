@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstoqueProdutos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67b6505c05a9fb323445baffff0fe4bf7d0ff47b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstoqueProdutos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstoqueProdutos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

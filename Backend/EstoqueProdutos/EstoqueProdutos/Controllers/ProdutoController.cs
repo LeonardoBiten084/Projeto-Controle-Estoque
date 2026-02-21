@@ -71,8 +71,10 @@ namespace EstoqueProdutos.Controllers
 
             produto.Nome = produtoModel.Nome;
             produto.Quantidade = produtoModel.Quantidade;
-            produto.Preco = produtoModel.Preco;
+            produto.PrecoVenda = produtoModel.PrecoVenda;
+            produto.PrecoCompra = produtoModel.PrecoCompra;
             produto.CodigoBarras = produtoModel.CodigoBarras;
+            produto.Validade = produtoModel.Validade;
             produto.Marca = produtoModel.Marca;
 
             _context.Produtos.Update(produto);

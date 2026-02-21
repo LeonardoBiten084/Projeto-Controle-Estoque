@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <main style={styles.wrapper}>
+    <main style={styles.main}>
       <div style={styles.container}>
-        <h2>Bem-vinda ao sistema 👋</h2>
+        <h2>Bem-vindo(a) ao sistema 👋</h2>
         <p>Escolha uma das opções abaixo:</p>
 
         <div style={styles.cards}>
@@ -16,27 +16,30 @@ export default function Home() {
 }
 
 const styles = {
-  wrapper: {
+  main: {
     width: "100%",
+    minHeight: "calc(100vh - 80px)", // altura menos o header
+    paddingTop: "40px"
   },
   container: {
     maxWidth: "1200px",
-    margin: "40px auto",
-    padding: "0 15px",
+    margin: "0 auto",
+    padding: "0 20px"
   },
   cards: {
     display: "flex",
-    gap: "50px",
+    gap: "20px",
     marginTop: "30px",
-    flexWrap: "wrap",
+    flexWrap: "wrap"
   },
   card: {
-    backgroundColor: "#f2f2f2",
+    backgroundColor: "#ffffff",
     padding: "25px",
     borderRadius: "8px",
     cursor: "pointer",
-    minWidth: "220px",
+    minWidth: "240px",
     textAlign: "center",
     fontWeight: "bold",
-  },
+    boxShadow: "0 2px 6px rgba(0,0,0,0.1)"
+  }
 };

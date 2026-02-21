@@ -3,7 +3,7 @@ export default function Header() {
   return (
     <header style={styles.header}>
       <div style={styles.container}>
-        <h2>Controle de Estoque</h2>
+        <h1>Controle de Estoque</h1>
 
         <nav style={styles.nav}>
           <Link to="/">Home</Link>
@@ -18,19 +18,19 @@ export default function Header() {
 const styles = {
   header: {
     width: "100%",
-    backgroundColor: "#8e44ad",
+    backgroundColor: "#8e44ad"
   },
   container: {
-    maxWidth: "2000px",
+    maxWidth: "1200px",
     margin: "0 auto",
-    padding: "15px",
+    padding: "20px",
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
-    color: "white",
+    color: "white"
   },
   nav: {
     display: "flex",
-    gap: "10px",
-  },
+    gap: "10px"
+  }
 };

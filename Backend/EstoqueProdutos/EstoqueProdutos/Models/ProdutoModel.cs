@@ -17,10 +17,18 @@ namespace EstoqueProdutos.Models
         [Required(ErrorMessage = "Insira obrigatoriamente o preço")]
         [Column(TypeName = "decimal(18,2)")]
         [Range(0.01, 99999.99, ErrorMessage = "O preço deve ser maior que zero")]
-        public decimal Preco { get; set; }
+        public decimal PrecoCompra { get; set; }
+
+        [Required(ErrorMessage = "Insira obrigatoriamente o preço")]
+        [Column(TypeName = "decimal(18,2)")]
+        [Range(0.01, 99999.99, ErrorMessage = "O preço deve ser maior que zero")]
+        public decimal PrecoVenda { get; set; }
 
         [Required(ErrorMessage = "Preencha obrigatoriamente o código de barras.")]
         public string CodigoBarras { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Preencha obrigatoriamente a data de validade do produto.")]
+        public DateOnly Validade { get; set; }
 
         [Required(ErrorMessage = "Preencha obrigatoriamente a marca do produto.")]
         public string Marca { get; set; } = string.Empty;

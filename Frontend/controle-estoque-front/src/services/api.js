@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "https://localhost:7216/scalar/v1"
+  baseURL: "https://localhost:7216/api/produto"
 });
