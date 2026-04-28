@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Backup\\ControleEstoque\\Backend\\EstoqueProdutos\\",
+  "WorkspaceRootPath": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|c:\\backup\\controleestoque\\backend\\estoqueprodutos\\estoqueprodutos\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|solutionrelative:estoqueprodutos\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|c:\\controleestoque\\backend\\estoqueprodutos\\estoqueprodutos\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|solutionrelative:estoqueprodutos\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|c:\\backup\\controleestoque\\backend\\estoqueprodutos\\estoqueprodutos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|solutionrelative:estoqueprodutos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|c:\\backup\\controleestoque\\backend\\estoqueprodutos\\estoqueprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|c:\\controleestoque\\backend\\estoqueprodutos\\estoqueprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|solutionrelative:estoqueprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|c:\\backup\\controleestoque\\backend\\estoqueprodutos\\estoqueprodutos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|c:\\controleestoque\\backend\\estoqueprodutos\\estoqueprodutos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|solutionrelative:estoqueprodutos\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|c:\\backup\\controleestoque\\backend\\estoqueprodutos\\estoqueprodutos\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|solutionrelative:estoqueprodutos\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|c:\\controleestoque\\backend\\estoqueprodutos\\estoqueprodutos\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|solutionrelative:estoqueprodutos\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|c:\\controleestoque\\backend\\estoqueprodutos\\estoqueprodutos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|solutionrelative:estoqueprodutos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|c:\\controleestoque\\backend\\estoqueprodutos\\estoqueprodutos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83A6A045-6AED-4990-BE62-A2982DBDA686}|EstoqueProdutos\\EstoqueProdutos.csproj|solutionrelative:estoqueprodutos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 320,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,68 +46,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Backup\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "EstoqueProdutos\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Backup\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Properties\\launchSettings.json",
               "RelativeToolTip": "EstoqueProdutos\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-16T19:01:28.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T19:01:28.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProdutoModel.cs",
-              "DocumentMoniker": "C:\\Backup\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Models\\ProdutoModel.cs",
+              "DocumentMoniker": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Models\\ProdutoModel.cs",
               "RelativeDocumentMoniker": "EstoqueProdutos\\Models\\ProdutoModel.cs",
-              "ToolTip": "C:\\Backup\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Models\\ProdutoModel.cs",
+              "ToolTip": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Models\\ProdutoModel.cs",
               "RelativeToolTip": "EstoqueProdutos\\Models\\ProdutoModel.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T20:36:00.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Backup\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Controllers\\ProdutoController.cs",
+              "DocumentMoniker": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "EstoqueProdutos\\Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Backup\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "EstoqueProdutos\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T20:36:00.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T20:36:00.654Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Backup\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Program.cs",
-              "RelativeDocumentMoniker": "EstoqueProdutos\\Program.cs",
-              "ToolTip": "C:\\Backup\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Program.cs",
-              "RelativeToolTip": "EstoqueProdutos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T20:36:00.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Backup\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EstoqueProdutos\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Backup\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Data\\AppDbContext.cs",
               "RelativeToolTip": "EstoqueProdutos\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T20:36:00.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T20:36:00.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Program.cs",
+              "RelativeDocumentMoniker": "EstoqueProdutos\\Program.cs",
+              "ToolTip": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\Program.cs",
+              "RelativeToolTip": "EstoqueProdutos\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T20:36:00.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EstoqueProdutos\\appsettings.Development.json",
+              "ToolTip": "C:\\ControleEstoque\\Backend\\EstoqueProdutos\\EstoqueProdutos\\appsettings.Development.json",
+              "RelativeToolTip": "EstoqueProdutos\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T11:35:17.824Z"
             }
           ]
         },

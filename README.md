@@ -53,11 +53,17 @@ Com isso, o sistema busca **agilizar processos**, **organizar informações** e 
 
 🟡 **Em desenvolvimento**
 
-Atualmente:
+Atualmente (06/02/26):
 
 * ✅ API funcionando após testes iniciais
 * 🔄 Ajustes pendentes na estrutura do banco de dados (adição de colunas essenciais após análise de requisitos)
 * 🖥️ Front-end em fase inicial, com conceito da tela **Home** já definido
+
+## Updates (20/02/26):
+
+* 🏗️ Remodelei o banco para adicionar novas colunas
+* ⬇️ Integrei API ao Front-ending
+* ✍️ Coloquei as funções listar e inserir (GET & POST) na aplicação.
 
 ---
 
@@ -108,3 +114,4 @@ Caso queira se conectar, trocar ideias ou contribuir com o projeto:
 ## 📜 Licença
 
 Este projeto é de caráter **educacional e pessoal**. Sinta-se à vontade para estudar, adaptar e evoluir a ideia.
+

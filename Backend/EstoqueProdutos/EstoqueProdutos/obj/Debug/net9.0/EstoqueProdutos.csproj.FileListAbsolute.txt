@@ -19,12 +19,6 @@ C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\scop
 C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\staticwebassets.build.json
 C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\staticwebassets.development.json
 C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\staticwebassets\msbuild.EstoqueProdutos.Microsoft.AspNetCore.StaticWebAssets.props
-C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\staticwebassets\msbuild.EstoqueProdutos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\staticwebassets\msbuild.build.EstoqueProdutos.props
-C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EstoqueProdutos.props
-C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EstoqueProdutos.props
-C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\staticwebassets.pack.json
 C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\EstoqueP.61A48B6B.Up2Date
 C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\EstoqueProdutos.dll
@@ -329,3 +323,10 @@ C:\Backup\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9
 C:\Backup\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\EstoqueProdutos.genruntimeconfig.cache
 C:\Backup\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\ref\EstoqueProdutos.dll
 C:\Backup\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\EstoqueProdutos.sourcelink.json
+C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\EstoqueProdutos.sourcelink.json
+C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\ControleEstoque\Backend\EstoqueProdutos\EstoqueProdutos\obj\Debug\net9.0\swae.build.ex.cache
