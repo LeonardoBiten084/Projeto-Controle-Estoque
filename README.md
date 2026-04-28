@@ -53,17 +53,22 @@ Com isso, o sistema busca **agilizar processos**, **organizar informações** e 
 
 🟡 **Em desenvolvimento**
 
-Atualmente (06/02/26):
+Primeiro Commit (06/02/26):
 
-* ✅ API funcionando após testes iniciais
-* 🔄 Ajustes pendentes na estrutura do banco de dados (adição de colunas essenciais após análise de requisitos)
-* 🖥️ Front-end em fase inicial, com conceito da tela **Home** já definido
+* ✅ API funcionando após testes iniciais;
+* 🔄 Ajustes pendentes na estrutura do banco de dados (adição de colunas essenciais após análise de requisitos);
+* 🖥️ Front-end em fase inicial, com conceito da tela **Home** já definido.
 
 ## Updates (20/02/26):
 
-* 🏗️ Remodelei o banco para adicionar novas colunas
-* ⬇️ Integrei API ao Front-ending
+* 🏗️ Remodelei o banco para adicionar novas colunas;
+* ⬇️ Integrei API ao Front-ending;
 * ✍️ Coloquei as funções listar e inserir (GET & POST) na aplicação.
+
+## Updates (28/04/26):
+
+* Implementei as funções editar e excluir (PUT & DELETE);
+* Coloquei validações na lista de produtos para melhor experiência do usuário.
 
 ---
 
