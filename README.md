@@ -70,6 +70,11 @@ Primeiro Commit (06/02/26):
 * Implementei as funções editar e excluir (PUT & DELETE);
 * Coloquei validações na lista de produtos para melhor experiência do usuário.
 
+## Updates (12/10/26):
+
+* Implementando nova base de dados para os registros de movimentações
+* Criei a API dela e suas controllers.
+
 ---
 
 ## 📂 Arquitetura Geral
