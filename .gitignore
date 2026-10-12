@@ -1,0 +1,17 @@
+# Visual Studio (Backend)
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+
+# Node.js / React (Frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db

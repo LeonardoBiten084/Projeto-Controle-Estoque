@@ -83,6 +83,9 @@ export default function Produtos() {
         p.id === id ? produtoEditando : p 
       );
 
+      setCodigoDigitado("");
+      setCodigoBusca("");
+
       setProdutos(listaAtualizada);
       setEditandoId(null);
 
