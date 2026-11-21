@@ -8,7 +8,7 @@ export default function Header() {
         <nav style={styles.nav}>
           <Link to="/">Home</Link>
           <Link to="/produtos">Produtos</Link>
-          <Link to="/cadastrar">Cadastrar</Link>
+          <Link to="/registros">Registros</Link>
         </nav>
       </div>
     </header>

@@ -63,8 +63,23 @@ namespace RegistrosEstoque.Controllers
             registroExistente.NomeProduto = registroModel.NomeProduto;
             registroExistente.Quantidade = registroModel.Quantidade;
             registroExistente.ValorUnitario = registroModel.ValorUnitario;
+            registroExistente.Marca = registroModel.Marca;
             _context.SaveChanges();
             return Ok(registroExistente);
+        }
+
+        [HttpDelete("{id:int}")]
+        public IActionResult ExcluirRegistro(int id)
+        {
+            var registro = _context.Registros.FirstOrDefault(r => r.Id == id);
+            if (registro == null)
+            {
+                return NotFound("Registro não encontrado.");
+            }
+
+            _context.Registros.Remove(registro);
+            _context.SaveChanges();
+            return NoContent();
         }
     }
 }

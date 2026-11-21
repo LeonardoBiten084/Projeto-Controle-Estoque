@@ -38,6 +38,11 @@ namespace RegistrosEstoque.Migrations
                     b.Property<DateTimeOffset>("DataRegistro")
                         .HasColumnType("datetimeoffset");
 
+                    b.Property<string>("Marca")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
                     b.Property<string>("NomeProduto")
                         .IsRequired()
                         .HasMaxLength(200)

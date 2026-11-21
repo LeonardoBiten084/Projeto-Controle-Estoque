@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 /* estados que serão usados */
 export default function Produtos() {
@@ -147,7 +148,12 @@ export default function Produtos() {
             <button onClick={limparPesquisa}>
               Limpar
             </button>
+            
+            <button>
+              <Link to="/novo-produto">Cadastrar Produto</Link>
+            </button>
           </div>
+          
 
         <table style={styles.table}>
           <thead>

@@ -28,6 +28,10 @@ namespace RegistrosEstoque.Models
         [Range(0.01, 99999.99, ErrorMessage = "O preço deve ser maior que zero")]
         public decimal ValorUnitario { get; set; } = decimal.Zero;
 
+        [Required(ErrorMessage = "Digite a marca do produto")]
+        [MaxLength(100)]
+        public string Marca { get; set; } = string.Empty;
+
         public DateTimeOffset DataRegistro { get; set; } = DateTimeOffset.UtcNow;
     }
 }
